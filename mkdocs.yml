@@ -105,9 +105,9 @@ plugins:
         - en
 
 # Page tree
-nav:
-  - About me: aboutme.md
+nav:  
   - Welcome: index.md
+  - About me: aboutme.md
   - CV: resume.md
   - Overview: projects.md
   - Projects:
