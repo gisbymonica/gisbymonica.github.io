@@ -12,9 +12,7 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
-      - name: remove requirements file
-        run: |
-          rm -Rf requirements.txt
+
       - name: Deploy MkDocs
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.21
 
