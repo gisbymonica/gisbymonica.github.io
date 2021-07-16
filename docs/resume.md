@@ -7,8 +7,9 @@
    email: monicamons12@gmail.com
    GitHub: https://github.com/gisbymonica
    GitHub Page: https://gisbymonica.github.io
-   LinkedIn Profile: https://www.linkedin.com/in/monicamohangis/
+   LinkedIn Profile: https://www.linkedin.com/in/monicamohan/
    ArcGIS Online: https://monicamohan.maps.arcgis.com/
+   Medium: https://medium.com/monicamohangis/
    Last updated: July 2021
 ```
 ***

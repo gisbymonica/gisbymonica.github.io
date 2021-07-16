@@ -109,6 +109,6 @@ nav:
   - Welcome: index.md
   - About me: aboutme.md
   - CV: resume.md
-  - Overview: projects.md
-  - Projects:
+  - Projects: projects.md
+  - Demos:
     - JS API: arcgisjs.md
