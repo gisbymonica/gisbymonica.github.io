@@ -26,14 +26,15 @@ Below are the links to some of my projects:
       [Jupyter Notebook : ](https://github.com/gisbymonica/30DayMapChallenge/blob/main/OSM_Extraction.ipynb) This is the notebook that contains the initial exploratory code that I wrote before developing the concept as a web app.
 
 
-#### OpenLayers
+#### ArcGIS Online Apps
+1. [Houston Evacuation Map : ](https://monicamohan.maps.arcgis.com/apps/StoryMapBasic/index.html?appid=7b3adfa0eda94a939762ef338a6911f1) This app shows the evacuation routes in Houston, TX, USA and the at-risk population who reside in the region but without a vehicle who in case of a hurricane would be requiring assistance.
 
 
-#### nodeJS
+#### ArcGIS Story Maps
+1. [Story Map on Beirut Explosion : ](https://storymaps.arcgis.com/stories/e9fbebfc776a41e0bd54eb14f8a128e6) I authored this report on Beirut Explosion using ArcGIS Story Maps.
 
 
 #### Python Fun Project
-
 
 
 
