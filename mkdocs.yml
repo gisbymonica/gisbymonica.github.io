@@ -13,36 +13,6 @@ copyright: 'Copyright &copy; 2021 - 2022 Monica Mohan'
 theme:
   name: 'material'
 
-  # 404 page
-  static_templates:
-    - 404.html
-
-  # Don't include MkDocs' JavaScript
-  include_search_page: false
-  search_index_only: true
-
-  # Default values, taken from mkdocs_theme.yml
-  language: en
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    - scheme: slate
-      primary: red
-      accent: red
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
-  font:
-    text: Google Sans
-    code: Regular
-  favicon: assets/favicon.png
-  icon:
-    logo: logo
-
 
 # Page tree
 nav:
