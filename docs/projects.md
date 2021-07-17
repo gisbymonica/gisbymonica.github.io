@@ -34,7 +34,8 @@ Below are the links to some of my projects:
 1. [Story Map on Beirut Explosion : ](https://storymaps.arcgis.com/stories/e9fbebfc776a41e0bd54eb14f8a128e6) I authored this report on Beirut Explosion using ArcGIS Story Maps.
 
 
-#### Python Fun Project
+#### NodeJS
+1. [Logger Service : ](https://github.com/gisbymonica/logger) This is a nodeJS server scripting project where I have written a few APIs to generate log files and convert them to zip and enabled downloading them on demand.
 
 
 
