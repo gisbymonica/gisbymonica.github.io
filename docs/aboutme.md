@@ -12,4 +12,4 @@ I, personally, am interested in using GIS for Earth Observation and am equipping
 #### Let's Chat
 
 To have an interesting chat, contact me at: 
-monicamons12@gmail.com
+<monicamons12@gmail.com>
