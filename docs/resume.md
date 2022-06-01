@@ -10,13 +10,13 @@
    LinkedIn Profile: https://www.linkedin.com/in/monicamohan/
    ArcGIS Online: https://monicamohan.maps.arcgis.com/
    Medium: https://medium.com/monicamohangis/
-   Last updated: July 2021
+   Last updated: June 2022
 ```
 ***
 
 ####  Profile
 
-> **Certified GIS developer - with 3 years of professional experience in geospatial technologies and 4 years of hands-on education in Geoinformatics.Versatile and well-versed in open source and ESRI GIS technologies.Highly passionate about employing Machine Learning techniques and Artificial Intelligence in GIS.**
+> **Certified GIS developer - with 4 years of professional experience in geospatial technologies and 4 years of hands-on education in Geoinformatics. Versatile and well-versed in open source and ESRI GIS technologies. Highly enterprising individual who drives the team forward to deliver solutions to location-centric business problems. Passionate about employing Machine Learning techniques and Artificial Intelligence in GIS.**
 
 ***
 
@@ -25,9 +25,9 @@
 |Domain  |Technology  |
 |---------|---------|
 |Geospatial Technologies - ESRI | ESRI JS API – 3.x and 4.x, ArcGIS Online/ Portal, ArcMap 10.x, ArcGIS Server 10.x, ArcGIS Runtime API for .NET 100.x, ArcPy, ArcGIS Pro 2.x, ESRI WebAppBuilder  |
-|Geospatial Technologies - Open Source     | OpenLayers, Leaflet, GeoServer, Geocortex, Google Maps API,Pix4D API, PostGIS, QGIS        |
+|Geospatial Technologies - Open Source     | OpenLayers, LeafletJS, GeoServer, Geocortex, Google Maps API,Pix4D API, PostGIS, QGIS        |
 |Languages     | JavaScript – React, C#, Python, R           |
-|Web and Cloud Technologies  | HTML, CSS, SASS, NodeJS, jQuery, Web Services (REST, SOAP), ASP.NET MVC, WPF, Google Firebase, Amazon S3 SDK for JavaScript, mocha, Cypress, Puppeteer, Selenium         |
+|Web and Cloud Technologies  | HTML, CSS, SASS, NodeJS, jQuery, Web Services (REST, SOAP), ASP.NET MVC, WPF, Google Firebase, Amazon S3 SDK for JavaScript, AWS cloud technologies, mocha, Cypress, Puppeteer, Selenium         |
 |Data Modelling and Management     | PostgreSQL, Microsoft SQL Server, Oracle DB, ArcGIS EDBs         |
 |DevOps     | Jenkins CI/CD Pipeline, Groovy Script       |
 |Version Control     | Git     |
@@ -38,12 +38,19 @@
 ![ESRI CERT](images/cert-small.jpg)
 
 #### Experience
+> ##### NCS Singapore
+> GIS CONSULTANT | NOVEMBER 2021 - PRESENT
+
+- Architected and implemented a cloud-based open-source GIS ecosystem for various clients
+- Implemented on-premises to cloud migration of ArcGIS Enterprise systems.
+- Developed GIS-based web applications using ArcGIS JS API 4.x and ReactJS for few clients and Open Source GIS technologies for a few others.
+- Initiated client interactions and supported pre-sales team with system and solution architectures for GIS systems.
 
 > ##### Coforge Singapore (Client: URA)
-> GIS DEVELOPER | NOVEMBER 2020 - PRESENT | URBAN REDEVELOPMENT AUTHORITY
+> GIS DEVELOPER | NOVEMBER 2020 - NOVEMBER 2021 | URBAN REDEVELOPMENT AUTHORITY
 
 - Single-handedly optimized the CI/CD pipeline in Jenkins for GIS application.
-- Introduced the team to Unit Test Engines in Phabricator-Arcanist and optimized Automated Endto-End testing.
+- Introduced the team to Unit Test Engines in Phabricator-Arcanist and optimized Automated End-to-End testing.
 - Developing the enhancement requests for the in-house GIS application.
 
 > ##### Thatz International SG (Client: JTC)
